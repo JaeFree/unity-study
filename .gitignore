@@ -1,0 +1,2 @@
+# Unity가 자동으로 만드는 파일 (Assets 안에 clone해서 쓰기 때문)
+*.meta
